@@ -1,10 +1,13 @@
 # phylotreedist
+A C++ bioinformatic library that provides various phylogenetic distances
+between pair a of phylogenetic trees.
+
 For more details see 
-APrettyBigReadme_or_AnnaPawelczykDiploma.pdf and manual.pdf
+[APrettyBigReadme_or_AnnaPawelczykDiploma.pdf](https://github.com/andziaania/phylotreedist/blob/master/APrettyBigReadme_or_AnnaPawelczykDiploma.pdf) and [manual.pdf](https://github.com/andziaania/phylotreedist/blob/master/manual.pdf)
 
-
+## About
 This is my master thesis project at Gdansk University of Technology student, Poland, ETI Faculty, advised
-by PhD DSc Krzysztof Giaro, Associate Professor at Gdansk University of
+by Prof. DSc Krzysztof Giaro, Associate Professor at Gdansk University of
 Technology, ETI Faculty, Dept. of Algorithms and System Modeling.
 
 
